@@ -1,0 +1,20 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+skinparam actorStyle awesome
+"Program" as Program
+" Provide User Information" as (Use)
+Program --> (Reports Order Transaction)
+:User: --> (Use)
+Program --> (Menu Selection)
+Program --> (Easy Payment Options)
+User --> (Customize Order)
+User --> (Order Cancellationn)
+User --> (Review/Rating)
+
+center header "INSTANT EATS"
+
+
+
+
+@enduml
