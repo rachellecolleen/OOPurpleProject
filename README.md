@@ -7,7 +7,7 @@ Member: Almadrigo, David Ludy Andre
 INSTANT EATS 
 Food Delivery App
 
-An app intended to delivery food and offer a range of restaurants ranging from fast food to Western food to Sushi to even healthier food options. Online food delivery services enable its customers to choose from variety of food options if they wanted to forego preparing meals or dine out.
+An app intended for food delivery and offers range of restaurants from fast food to Western food to Sushi to even healthier food options available. Online food delivery services enable its customers to choose from variety of food options if they wanted to forego preparing meals or dine out.
 
 Features:
 
