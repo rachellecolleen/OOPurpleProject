@@ -18,5 +18,6 @@ Features:
 - Be able to customize the order
 - Be able to cancel orders
 - Displays user identification
-- 
+
+
 Summary report of the system: To be able to create a food delivery app that is very efficient and hassle-free.
