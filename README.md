@@ -11,6 +11,7 @@ An app intended for food delivery and offers range of restaurants from fast food
 
 Features:
 
+- Applies discount rates
 - Be able to have hassle-free order placement
 - Be able to have a wide variety menu selection(Food and Beverage) 
 - Be able to customize orders 
