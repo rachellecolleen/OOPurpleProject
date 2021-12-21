@@ -1,0 +1,40 @@
+@startuml
+hide empty members
+hide circle
+skinparam class {
+BackgroundColor white
+ArrowColor Black
+BorderColor Black
+}
+
+class "Instant Eats"{
+determines customer ID
+}
+
+"Instant Eats" --> Customer
+Customer --> "Order Choice"
+"Order Choice" --> "Checkout Options"
+"Checkout Options" --> "Receipt/Transaction"
+"Checkout Options" .right. "Cancel Order"
+"Cancel Order" -right-> "END"
+
+class "Cancel Order" {
+}
+
+class Customer {
+place order
+}
+
+class "Order Choice" {
+Food and Beverages
+view ordered items()
+show price of items()
+}
+
+class "Checkout Options" {
+}
+
+class "Receipt/Transaction" {
+Preview of price and quantity of ordered items
+}
+@enduml
