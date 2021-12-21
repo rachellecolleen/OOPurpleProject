@@ -11,10 +11,10 @@ An app intended for food delivery and offers range of restaurants from fast food
 
 Features:
 
-Be able to have hassle-free order placement
-Be able to have a wide variety menu selection(Food and Beverage) 
-Be able to customize orders 
-Be able to cancel order willingly
-Display and Ask for user identification(receipt)
+-Be able to have hassle-free order placement
+-Be able to have a wide variety menu selection(Food and Beverage) 
+-Be able to customize orders 
+-Be able to cancel order willingly
+-Display and Ask for user identification(receipt)
 
 Summary report of the system: To be able to create a food delivery app that is very efficient and hassle-free.
